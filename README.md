@@ -25,4 +25,4 @@ Our model demonstrates promising results, closely matching those of similar stud
 This project underscores the potential of AI-assisted diagnostics in pediatric radiology, offering a robust tool for classifying thoracic diseases using augmented chest X-ray datasets.
 
 ## References
-A list of references supporting this study, including relevant articles and datasets.
+A list of references supporting this study, including relevant articles and datasets can be found at [documentation](https://halildonmezbilek.com/blog/project-classifying-common-thoracic-diseases-with-augmented-pediatric-chest-x-ray-dataset).
