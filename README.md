@@ -19,10 +19,10 @@ To replicate this study:
 3. Run the Jupyter Notebook provided in the repository to train the model and evaluate its performance.
 
 ## Results
-Our model demonstrates promising results, closely matching those of similar studies in terms of precision, recall, and F1-score. Further details and performance metrics are available in the project [documentation](https://halildonmezbilek.com/blog/project-classifying-common-thoracic-diseases-with-augmented-pediatric-chest-x-ray-dataset).
+Our model demonstrates promising results, closely matching those of similar studies in terms of precision, recall, and F1-score. Further details and performance metrics are available in the project [documentation](https://url.halildonmezbilek.com/AugmentedChestXrayClassifierDocumentation).
 
 ## Conclusion
 This project underscores the potential of AI-assisted diagnostics in pediatric radiology, offering a robust tool for classifying thoracic diseases using augmented chest X-ray datasets.
 
 ## References
-A list of references supporting this study, including relevant articles and datasets can be found at [documentation](https://halildonmezbilek.com/blog/project-classifying-common-thoracic-diseases-with-augmented-pediatric-chest-x-ray-dataset).
+A list of references supporting this study, including relevant articles and datasets can be found at [documentation](https://url.halildonmezbilek.com/AugmentedChestXrayClassifierDocumentation).
